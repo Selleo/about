@@ -45,6 +45,38 @@ Sample AI use cases span healthcare triage, SaaS support automation, e-commerce 
 
 Canonical page: https://selleo.com/artificial-intelligence-solutions
 
+## AI Product Development
+
+Selleo builds full products with AI tools used at every stage of delivery, from scoping and architecture to coding, testing, and deployment. AI product development is for founders and CTOs who need senior-level delivery at a fraction of the traditional timeline and cost, with full code ownership and no vendor lock-in.
+
+How Selleo works on AI product development:
+
+- AI-augmented engineering, with engineers using Cursor, GitHub Copilot, and Claude Code daily for coding, review, test generation, and documentation
+- AI-assisted architecture and tech stack selection to surface risks before the build
+- Automated testing and AI-powered QA, with tests written in parallel with code
+- Rapid prototyping and accelerated MVP delivery to validate concepts before a full build
+- Post-launch iteration with AI-powered monitoring and anomaly detection
+
+Selleo offers three engagement models for this service: an AI Development Partnership where senior engineers join an existing team, full AI-augmented product development led end to end in 12 to 24 weeks, and an AI Team Extension on a flexible time and materials basis.
+
+Canonical page: https://selleo.com/ai-product-development
+
+## AI Agent Development
+
+Selleo develops autonomous AI agents that plan, reason, and act across existing systems to automate real business workflows, not demos. AI agent development is for products that need control, integration, and production quality, especially with complex workflows, sensitive data, or deep ties to enterprise and legacy systems.
+
+What Selleo delivers:
+
+- AI agent strategy and use case discovery to identify where agents create value first
+- Custom AI agents built around specific workflows, data, and security models
+- Multi-agent systems with clear roles, such as planner, retriever, and reviewer
+- AI agent integration with existing, enterprise, and legacy systems, with human-in-the-loop controls
+- Lifecycle support with observability, evaluation, retraining, and rollback paths
+
+Selleo builds several agent types, including single-task agents, multi-agent systems, workflow automation agents, decision and analytical agents, conversational assistants, and domain-specific agents for sectors such as EdTech, HRTech, and healthcare. Delivery starts with a 2 to 4 week assessment, and engagements can begin with a free two-week trial.
+
+Canonical page: https://selleo.com/ai-agent-development-services
+
 ## Product Discovery and Product Development
 
 Selleo helps turn an early idea into a clear, prioritized plan before development starts. Product discovery is for founders and teams who want to validate scope, reduce risk, and focus on the right problem first.
