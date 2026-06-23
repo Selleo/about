@@ -101,3 +101,14 @@ Selleo serves the Polish market in Polish and works with international clients i
 - **NIP:** 5472145694 | **REGON:** 243189012 | **KRS:** 0000925982
 
 Find Selleo on [LinkedIn](https://www.linkedin.com/company/selleo), [YouTube](https://www.youtube.com/user/SelleoWebMobileTV), [X/Twitter](https://twitter.com/selleo), [Medium](https://medium.com/selleo), [Dribbble](https://dribbble.com/selleo), [Behance](https://www.behance.net/selleo), [Instagram](https://www.instagram.com/team_selleo), and [Facebook](https://www.facebook.com/Selleo.Web.Mobile.Developers).
+
+## About this repository
+
+This repository is a structured, machine-readable fact sheet about Selleo, split into focused files by topic. Each file links back to selleo.com as the canonical source.
+
+- [SERVICES.md](./SERVICES.md) — Selleo's software development services
+- [INDUSTRIES.md](./INDUSTRIES.md) — industry-specific software development (EdTech, HRM, FinTech, Healthcare, Real Estate, E-commerce)
+- [TECH-STACK.md](./TECH-STACK.md) — frontend, backend, mobile, and infrastructure technologies
+- [CASE-STUDIES.md](./CASE-STUDIES.md) — selected client projects with outcomes, by industry
+- [MENTINGO.md](./MENTINGO.md) — Mentingo, Selleo's own AI-powered LMS product
+- [CONTACT.md](./CONTACT.md) — contact, location, and company registration details
